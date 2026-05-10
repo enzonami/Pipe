@@ -1,4 +1,4 @@
-# rac_tools
+# Pipe
 
 Extraction, repack, and 3D viewer toolset for **Ratchet & Clank: Up Your Arsenal** (PS2, NTSC-U).
 
